@@ -3,7 +3,7 @@
 
 ## Bank Management System
 
-• The Bank Management System is designed to streamline and manage various banking operations efficiently. It provides a comprehensive set of features to handle essential banking tasks, including:
+The Bank Management System is designed to streamline and manage various banking operations efficiently. It provides a comprehensive set of features to handle essential banking tasks, including:
 
 • Account Management: Users can create, update, and delete bank accounts. The system supports handling different types of accounts and maintains detailed information about each account, including account holder details, balance, and account status.
 
