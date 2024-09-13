@@ -13,4 +13,4 @@ The Bank Management System is designed to streamline and manage various banking 
 
 • Security: Incorporates robust security measures to protect sensitive banking data. It includes user authentication, access control, and secure data handling practices to ensure the safety and privacy of financial information.
 
-# The project aims to enhance operational efficiency, accuracy, and security in managing banking operations, providing a reliable solution for both individual and organizational use.
+## The project aims to enhance operational efficiency, accuracy, and security in managing banking operations, providing a reliable solution for both individual and organizational use.
